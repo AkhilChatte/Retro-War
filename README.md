@@ -4,7 +4,7 @@ An Android game created with Unity.\
 This entry level game is made with the Unity game engine as a mode to learn basics of Unity Engine. 
 It has retro style fighter aircrafts with different types of enemies with different characteristics.
 
-## Basic Topics Implemented in this project:
+## Basic Unity Topics Implemented in this project:
 1. Quad
 2. InputManager
 3. Sprite sheet Animation
