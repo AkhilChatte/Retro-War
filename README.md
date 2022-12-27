@@ -2,7 +2,9 @@
 
 An Android game created with Unity.\
 This entry level game is made with the Unity game engine as a mode to learn basics of Unity Engine. 
-It has retro style fighter aircrafts with different types of enemies with different characteristics.
+It has retro style fighter aircrafts with different types of enemies with different characteristics.\
+Enemies are spawned randomly in any position.\
+The controls are simple as well, the player can be controlled by dragging the finger on the screen and tap to shoot.
 
 ## Basic Unity Topics Implemented in this project:
 1. Quad
