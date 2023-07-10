@@ -1,0 +1,12 @@
+1. Quad
+2. InputManager
+3. Sprite sheet Animation
+4. ViewportToWorldpoint, worldspace
+5. Instantiate method, Translate Method
+6. Layers
+7. Coroutines
+8. Colliders - Boxcolliders, EdgeColliders
+9. RigidBody
+10. Tags to recognise an special object to other object
+11. Health System, Health Bar
+12. Unity inbuileUI healthbar
